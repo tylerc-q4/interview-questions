@@ -13,7 +13,5 @@ function foo2()
   };
 }
 
-
-
 console.log("foo1 returns: ", foo1())
 console.log("foo2 returns: ", foo2())

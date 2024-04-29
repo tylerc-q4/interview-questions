@@ -7,9 +7,3 @@ for (let i = 0; i < 3; i++) {
         console.log(1 + i);
     }, (5000 + i));
 }
-
-
-
-
-
-
